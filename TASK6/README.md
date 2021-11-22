@@ -7,4 +7,5 @@
 - The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
 
-**LANGUAGE USED : PYTHON**
+**LANGUAGE USED : PYTHON**<br><br>
+**VIDEO** : https://www.youtube.com/watch?v=oSWMu1U0w8U
